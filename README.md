@@ -14,6 +14,7 @@
 ---
 
 ### About Me
+<iframe src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI" width="478" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-programming-backend-KGhpQ5NMoWKQurlHwI">via GIPHY</a></p>
 - I am a junior studying Computer Science & Statistics & Analytics at The University of North Carolina at Chapel Hill.
 - I am currently developing Paging, which will be a book-focused social media platform where users can review books for their followers to see.
 
