@@ -1,10 +1,14 @@
-### Hi there 👋
+### Ryan Bowers
 
 <div id="badges"> 
 <a href="https://www.linkedin.com/in/ryan-bowers-1007aa29a/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
+
+---
+
+## About Me
 
 <!--
 **ryanbowers215/ryanbowers215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
