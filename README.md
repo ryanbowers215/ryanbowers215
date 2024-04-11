@@ -1,4 +1,7 @@
 # Hi, I'm Ryan
+---
+
+#### Contact Me
 
 <div id="badges"> 
 <a href="https://www.linkedin.com/in/ryan-bowers-1007aa29a/">
