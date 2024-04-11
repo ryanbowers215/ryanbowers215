@@ -1,8 +1,8 @@
-# Hey, I'm Ryan (^ _−)☆
+<div id='header' align="center">
+<img src='header.png'>
+</div>
 
-#### Contact Me
-
-<div id="badges"> 
+<div id="badges" align="center"> 
 <a href="https://www.linkedin.com/in/ryan-bowers-1007aa29a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -11,6 +11,8 @@
 </a>
 </div>
 
+---
+# Hey, I'm Ryan (^ _−)☆
 ---
 
 ### About Me
