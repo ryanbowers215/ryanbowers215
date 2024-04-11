@@ -10,8 +10,21 @@
 
 ### About Me
 - I am a junior studying Computer Science & Statistics & Analytics at The University of North Carolina at Chapel Hill.
-- I am currently taking coursework concentrated in full-stack Software Engineering.
 - I am currently developing Paging, which will be a book-focused social media platform where users can review books for their followers to see.
+
+## Coursework
+- COMP 590-140 Foundations of Software Engineering
+- COMP 311 Computer Organization
+- COMP 301 Foundations of Programming
+- COMP 211 Systems Fundamentals
+- COMP 210 Data Structures and Analysis
+- COMP 110 Introduction to Programming
+- STOR 435 Introduction to Probability
+- STOR 415 Introduction to Optimization
+- STOR 320 Introduction to Data Science
+- MATH 347 Linear Algebra for Applications
+- MATH 383 First Course in Differential Equations
+- MATH 381 Discrete Mathematics
 
 <!--
 **ryanbowers215/ryanbowers215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
