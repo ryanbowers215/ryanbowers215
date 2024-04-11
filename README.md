@@ -1,7 +1,4 @@
 ## Ryan Bowers 
-<div id="header">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThhZW01OGNjYzU0cmd6cjRhN3Vzd2pjaWRicXFsZGJpejZuM2M4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100"/>
-</div>
 
 <div id="badges"> 
 <a href="https://www.linkedin.com/in/ryan-bowers-1007aa29a/">
@@ -19,21 +16,9 @@
 ### About Me
 
 - I am a junior studying Computer Science & Statistics & Analytics at The University of North Carolina at Chapel Hill.
+- I am involved with Carolina Analytics & Data Science, and Computer Science + Social Good.
 - I am currently developing Paging, which will be a book-focused social media platform where users can review books for their followers to see.
-
-## Coursework
-- COMP 590-140 Foundations of Software Engineering
-- COMP 311 Computer Organization
-- COMP 301 Foundations of Programming
-- COMP 211 Systems Fundamentals
-- COMP 210 Data Structures and Analysis
-- COMP 110 Introduction to Programming
-- STOR 435 Introduction to Probability
-- STOR 415 Introduction to Optimization
-- STOR 320 Introduction to Data Science
-- MATH 347 Linear Algebra for Applications
-- MATH 383 First Course in Differential Equations
-- MATH 381 Discrete Mathematics
+- My current coursework is focused on full-stack software development.
 
 <!--
 **ryanbowers215/ryanbowers215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
