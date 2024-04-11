@@ -19,7 +19,7 @@
 
 - I am a junior studying Computer Science & Statistics & Analytics at The University of North Carolina at Chapel Hill.
 - I am involved with Carolina Analytics & Data Science, and Computer Science + Social Good.
-- I am currently developing Paging, which will be a book-focused social media platform where users can review books for their followers to see.
+- I am currently developing Paging, a book-focused social media platform where users can review books for their followers to see.
 - My current coursework is focused on full-stack software development.
 
 ---
