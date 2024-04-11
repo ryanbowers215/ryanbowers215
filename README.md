@@ -13,7 +13,7 @@
 
 ---
 
-### About Me
+### About Me :rhinoceros:
 
 - I am a junior studying Computer Science & Statistics & Analytics at The University of North Carolina at Chapel Hill.
 - I am involved with Carolina Analytics & Data Science, and Computer Science + Social Good.
