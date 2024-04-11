@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <div id="badges"> 
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/ryan-bowers-1007aa29a/" alt="LinkedIn Badge"/>
+<a href="https://www.linkedin.com/in/ryan-bowers-1007aa29a/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 </div>
 
 <!--
