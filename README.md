@@ -1,4 +1,4 @@
-# Hi, I'm Ryan
+# Hey, I'm Ryan (^ _−)☆
 
 #### Contact Me
 
@@ -13,7 +13,7 @@
 
 ---
 
-### About Me :rhinoceros:
+### About Me
 
 - I am a junior studying Computer Science & Statistics & Analytics at The University of North Carolina at Chapel Hill.
 - I am involved with Carolina Analytics & Data Science, and Computer Science + Social Good.
@@ -22,37 +22,24 @@
 
 ---
 
-### Technologies :computer:
+### Technologies
 
+#### Programming Languages
 <div id="badges"> 
-  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
   <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
   <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
+  <img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' />
+  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
   <img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' />
+  <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' />
+  <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' />
 </div>
+
+#### Frameworks and Tools
 <div id="badges"> 
+  <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' />
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
   <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' />
   <img src='https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white' />
-  <img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' />
-  <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' />
 </div>
-
-
-
-
-<!--
-**ryanbowers215/ryanbowers215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
