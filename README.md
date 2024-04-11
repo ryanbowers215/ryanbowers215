@@ -1,5 +1,5 @@
 <div id='header' align="center">
-<!-- <img src='header.png'> -->
+<img src='widephoto.png'>
 </div>
 
 <div id="badges" align="center"> 
