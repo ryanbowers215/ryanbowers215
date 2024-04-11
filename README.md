@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:ryanb215@ad.unc.edu">
-  <img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' alt="Outlook Badge" />
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt="Gmail Badge" />
 </a>
 </div>
 
