@@ -9,8 +9,6 @@
 </a>
 </div>
 
-
-
 ---
 
 ### About Me :rhinoceros:
@@ -19,6 +17,15 @@
 - I am involved with Carolina Analytics & Data Science, and Computer Science + Social Good.
 - I am currently developing Paging, which will be a book-focused social media platform where users can review books for their followers to see.
 - My current coursework is focused on full-stack software development.
+
+---
+
+### Technologies
+
+<div id="badges"> 
+<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
+
+</div>
 
 <!--
 **ryanbowers215/ryanbowers215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
